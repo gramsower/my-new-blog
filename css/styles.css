@@ -1,3 +1,6 @@
+body {
+  background-
+}
 .blog {
 
 }
@@ -9,5 +12,7 @@ text-decoration-line: underline;
 }
 
 .aboutme {
-  
+  color: aqua;
+  background-color: grey;
+  width: 70%;
 }
